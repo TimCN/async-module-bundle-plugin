@@ -1,0 +1,23 @@
+{
+  "name": "@async-module/bundle-plugin",
+  "version": "0.0.1",
+  "description": "generate an async module manifest entry",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimCN/async-module-bundle-plugin.git"
+  },
+  "keywords": [],
+  "author": "tim.shanghai@outlook.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TimCN/async-module-bundle-plugin/issues"
+  },
+  "homepage": "https://github.com/TimCN/async-module-bundle-plugin#readme"
+}
